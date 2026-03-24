@@ -26,3 +26,4 @@ ENV/
 dist/
 build/
 *.egg-info/
+*.png
